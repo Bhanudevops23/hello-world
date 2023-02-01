@@ -38,8 +38,13 @@ input[type=submit]:hover {
 </style>
 </head>
 <body>
+<<<<<<< HEAD
 <h3>Bhanu Devopsm   practice</h3>
 <h3> Cloud AWS Devops</h3>
+=======
+<h3>Bhanu Prakash  Devops practice</h3>
+	
+>>>>>>> 5dcf9181dd5aa655cd3c6d7f20c1510866232e83
 <h3>Contact Form</h3>
 
 <h3>Bhanu Devopsm   practice</h3>
