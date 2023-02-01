@@ -38,7 +38,7 @@ input[type=submit]:hover {
 </style>
 </head>
 <body>
-<h3>Bhanu Devops practice</h3>
+<h3>Bhanu Prakash  Devops practice</h3>
 	
 <h3>Contact Form</h3>
 
