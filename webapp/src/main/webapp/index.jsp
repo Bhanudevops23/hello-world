@@ -40,7 +40,7 @@ input[type=submit]:hover {
 <body>
 <<<<<<< HEAD
 <h3>Bhanu Devopsm   practice</h3>
-<h3> Cloud AWS Devops</h3>
+<h3> Cloud AWS Devops engineer</h3>
 =======
 <h3>Bhanu Prakash  Devops practice</h3>
 	
